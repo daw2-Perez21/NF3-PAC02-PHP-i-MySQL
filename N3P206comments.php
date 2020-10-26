@@ -1,0 +1,33 @@
+<?php
+echo "Create a list of the 10 most important concepts about what you’ve learned in this  document";
+echo "<br>";
+echo "1-Create table";
+echo "<br>";
+echo "2-Create key";
+echo "<br>";
+echo "3-Alter table";
+echo "<br>";
+echo "4-Constraint";
+echo "<br>";
+echo "5-Foreing key";
+echo "<br>";
+echo "6-Use cookie";
+echo "<br>";
+echo "7-mysqli_query";
+echo "<br>";
+echo "8-Insert into";
+echo "<br>";
+echo "9-LIMIT";
+echo "<br>";
+echo "10-mysqli_fetch_array";
+echo "<br>";
+echo "Qualifies the document:6";
+echo "<br>";
+echo "Teacher's explanation:9";
+echo "<br>";
+echo "My mark:8";
+echo "<br>";
+echo "Explain an improvement";
+echo "<br>";
+echo "la practica era relativamente accesible excepto el 3 que sin la ayuda del profe era imposible";
+?>
